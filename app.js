@@ -14,7 +14,7 @@ serv.listen(process.env.PORT || 2000);
 console.log("Server started.");
 
 var SOCKET_LIST = {};
-
+//ANO 
 var Entity = function(param){
 	var self = {
 		x:250,
